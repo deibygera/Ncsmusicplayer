@@ -1,4 +1,4 @@
-[Link to Project](/index.html)
+[Link to Project](https://deibygera.github.io/Ncsmusicplayer/)
 # Ncsmusicplayer
 Simple JS Music Player
 
